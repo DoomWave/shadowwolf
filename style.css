@@ -14,6 +14,6 @@
     left: 50%;
     transform: translateX(-50%);
 }
-.controls, select, option{
+.controls, select, option {
    font-size: 25px; 
 }
